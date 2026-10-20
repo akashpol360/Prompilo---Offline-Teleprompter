@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.prompilo.app-debug-71:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.prompilo.app-main-73:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.prompilo.app-debug-71:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.prompilo.app-main-73:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.prompilo.app-debug-71:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.prompilo.app-main-73:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.prompilo.app-debug-71:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.prompilo.app-main-73:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.prompilo.app-debug-71:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.prompilo.app-main-73:/mipmap-hdpi/ic_launcher.png"
+    }
+]
